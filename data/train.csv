@@ -1,0 +1,55 @@
+﻿train_num,train_name,src,dest,arr_time,dest_time,duration,days,sl,cc,ac3,ac2,ac1,first,2s
+22475,Hisar Coimbatore Main Ac Sf Express,ST,MAO,00:11,13:10,779,nnnnnyn,NaN,NaN,1205,1920,3185,NaN,NaN
+19262,Porbandar Kochuveli Weekly Express,ST,MAO,07:30,21:00,810,nnnnnyn,475,NaN,1315,1660,NaN,NaN,NaN
+16335,Gandhidham Nagercoil Weekly Express,ST,MAO,17:00,06:50,830,nnnnnyn,192,NaN,1315,1875,NaN,NaN,NaN
+22414,Hazrat Nizamuddin Madgaon Rajdhani Express,ST,MAO,00:16,12:50,754,ynnnnny,NaN,NaN,1600,2245,3715,NaN,NaN
+19578,Jamnagar Tirunelveli Express,ST,MAO,07:30,23:25,955,ynnnnny,430,NaN,1315,1875,NaN,NaN,NaN
+12484,Amritsar Kochuveli Sf Express,ST,MAO,06:30,21:00,870,nynnnnn,505,NaN,1365,1920,NaN,NaN,NaN
+19424,Gandhidham Tirunelveli Hum Safar Express,ST,MAO,23:50,12:30,760,nynnnnn,NaN,NaN,1470,NaN,NaN,NaN,NaN
+22654,Delhi H Nizamuddin Trivandrum Cent Sf Exp,ST,MAO,03:10,18:40,930,nnynnnn,505,NaN,1181,1647,NaN,NaN,NaN
+22660,Dehradun Kochuveli Sf Express,ST,MAO,06:30,21:00,870,nnynnnn,505,NaN,1330,1885,NaN,NaN,NaN
+16311,Shri Ganganagar Kochuveli Weekly Express,ST,MAO,17:00,06:50,830,nnnynnn,505,NaN,1315,1875,NaN,NaN,NaN
+19332,Indore Kochuveli Weekly Express,ST,MAO,06:42,23:25,1003,nnnynnn,505,NaN,1280,1646,NaN,NaN,NaN
+16333,Veraval Trivandrum Central Express,ST,MAO,17:00,06:50,830,nnnnynn,505,NaN,1315,1840,NaN,NaN,NaN
+22908,Hapa Madgaon weekly Sf Express,ST,MAO,13:22,04:15,893,nnnnynn,505,NaN,1330,1885,NaN,NaN,NaN
+19578,Jamnagar Tirunelveli Express,ST,ERS,07:30,14:05,1835,ynnnnny,505,NaN,1900,2485,NaN,NaN,NaN
+16337,Okha Ernakulam Express,ST,ERS,17:00,22:35,1775,nynnnny,505,NaN,1935,2755,NaN,NaN,NaN
+12484,Amritsar Kochuveli Sf Express,ST,ERS,06:30,11:05,1715,nynnnnn,505,NaN,1945,2411,NaN,NaN,NaN
+22654,Delhi H Nizamuddin Trivandrum Cent Sf Exp,ST,ERS,03:10,09:15,1805,nnynnnn,505,NaN,1767,2760,NaN,NaN,NaN
+22660,Dehradun Kochuveli Sf Express,ST,ERS,06:30,10:30,1680,nnynnnn,505,NaN,1945,2805,NaN,NaN,NaN
+19332,Indore Kochuveli Weekly Express,ST,ERS,06:42,14:05,1883,nnnynnn,505,NaN,1935,2790,NaN,NaN,NaN
+16311,Shri Ganganagar Kochuveli Weekly Express,ST,ERS,17:00,22:05,1745,nnnynnn,505,NaN,1769,2755,NaN,NaN,NaN
+16333,Veraval Trivandrum Central Express,ST,ERS,17:00,22:05,1745,nnnnynn,505,NaN,1900,2736,NaN,NaN,NaN
+19262,Porbandar Kochuveli Weekly Express,ST,ERS,07:30,11:05,1655,nnnnnyn,505,NaN,1900,2573,NaN,NaN,NaN
+16335,Gandhidham Nagercoil Weekly Express,ST,ERS,17:00,22:05,1745,nnnnnyn,505,NaN,1900,2790,NaN,NaN,NaN
+16335,Gandhidham Nagercoil Weekly Express,ST,KTYM,17:00,23:13,1830,nnnnnyn,505,NaN,1671,2626,NaN,NaN,NaN
+22654,Delhi H Nizamuddin Trivandrum Cent Sf Exp,ST,KTYM,03:10,10:47,1907,nnynnnn,505,NaN,1721,2548,NaN,NaN,NaN
+22660,Dehradun Kochuveli Sf Express,ST,KTYM,06:30,11:47,1757,nnynnnn,505,NaN,1800,2629,NaN,NaN,NaN
+16311,Shri Ganganagar Kochuveli Weekly Express,ST,KTYM,17:00,23:12,1812,nnnynnn,505,NaN,1871,2626,NaN,NaN,NaN
+16333,Veraval Trivandrum Central Express,ST,KTYM,17:00,23:12,1812,nnnnynn,505,NaN,1871,2626,NaN,NaN,NaN
+19262,Porbandar Kochuveli Weekly Express,ST,TVC,07:30,15:45,1935,nnnnnyn,505,NaN,2025,2611,NaN,NaN,NaN
+16335,Gandhidham Nagercoil Weekly Express,ST,TVC,17:00,02:40,2020,nnnnnyn,505,NaN,1771,2641,NaN,NaN,NaN
+22656,Delhi H Nizamuddin Trivandrum Cent Sf Exp,ST,TVC,03:05,14:50,2140,nnnnnny,505,NaN,1821,2641,NaN,NaN,NaN
+19578,Jamnagar Tirunelveli Express,ST,TVC,07:20,18:30,2100,ynnnnny,505,NaN,1771,2641,NaN,NaN,NaN
+22634,Delhi H Nizamuddin Trivandrum Cent Sf Exp,ST,TVC,17:10,02:55,2020,nnnnnny,505,NaN,1821,2641,NaN,NaN,NaN
+12484,Amritsar Kochuveli Sf Express,ST,TVC,06:25,15:45,1995,nynnnnn,505,NaN,1801,2611,NaN,NaN,NaN
+22654,Delhi H Nizamuddin Trivandrum Cent Sf Exp,ST,TVC,03:05,14:50,2150,nnynnnn,505,NaN,1821,2641,NaN,NaN,NaN
+22660,Dehradun Kochuveli Sf Express,ST,TVC,06:25,15:45,1995,nnynnnn,505,NaN,2001,2921,NaN,NaN,NaN
+19332,Indore Kochuveli Weekly Express,ST,TVC,06:37,18:40,2158,nnnynnn,505,NaN,1756,2611,NaN,NaN,NaN
+16311,Shri Ganganagar Kochuveli Weekly Express,ST,TVC,16:50,03:05,2045,nnnynnn,505,NaN,1951,2921,NaN,NaN,NaN
+16333,Veraval Trivandrum Central Express,ST,TVC,16:50,03:05,2045,nnnnynn,505,NaN,1951,2921,NaN,NaN,NaN
+19262,Porbandar Kochuveli Weekly Express,ST,TCR,07:20,09:07,1537,nnnnnyn,505,NaN,1576,2341,NaN,NaN,NaN
+16335,Gandhidham Nagercoil Weekly Express,ST,TCR,16:50,20:42,1662,nnnnnyn,505,NaN,1576,2341,NaN,NaN,NaN
+19578,Jamnagar Tirunelveli Express,ST,TCR,07:20,12:23,1733,ynnnnny,505,NaN,1576,2341,NaN,NaN,NaN
+16337,Okha Ernakulam Express,ST,TCR,16:50,20:42,1662,nynnnny,505,NaN,1576,2341,NaN,NaN,NaN
+12484,Amritsar Kochuveli Sf Express,ST,TCR,06:25,19:07,1597,nynnnnn,505,NaN,1621,2341,NaN,NaN,NaN
+22654,Delhi H Nizamuddin Trivandrum Cent Sf Exp,ST,TCR,03:05,07:22,1692,nnynnnn,505,NaN,1621,2341,NaN,NaN,NaN
+22660,Dehradun Kochuveli Sf Express,ST,TCR,06:25,08:57,1584,nnynnnn,505,NaN,1836,2661,NaN,NaN,NaN
+19332,Indore Kochuveli Weekly Express,ST,TCR,06:37,12:22,1780,nnnynnn,505,NaN,1576,2341,NaN,NaN,NaN
+16311,Shri Ganganagar Kochuveli Weekly Express,ST,TCR,16:50,20:42,1662,nnnynnn,505,NaN,1791,2661,NaN,NaN,NaN
+16333,Veraval Trivandrum Central Express,ST,TCR,16:50,20:42,1662,nnnnynn,505,NaN,1791,2661,NaN,NaN,NaN
+12903,Mumbai Central Amritsar Golden Temple Sf Mail,ST,ASR,01:05,05:30,1705,yyyyyyy,505,NaN,1635,2650,4445,NaN,NaN
+12925,Mumbai Bandra T Amritsar Paschim Sf Express,ST,ASR,16:20,19:20,1620,yyyyyyy,505,NaN,1755,2280,4181,NaN,NaN
+22451,Mumbai Bandra T Chandigarh Sf Express,ST,CDG,16:00,16:20,1460,nynnynn,505,NaN,1610,2241,NaN,NaN,NaN
+12449,Madgaon Chandigarh Goa Sampark Kranti Express,ST,CDG,00:15,23:45,1410,nnnyynn,505,NaN,1475,2335,3575,NaN,NaN
+,,, ,,,,,,,,,,,

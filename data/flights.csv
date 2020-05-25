@@ -1,0 +1,21 @@
+﻿source,destination,src code,dst code,takeoff time,landing time,duration,nonstop,airline,price,connecting
+surat,amritsar,STV,ATQ,07:40,22:20,880,no,Air india,"4,720",DEL
+surat,amritsar,STV,ATQ,13:50,21:15,445,no,IndiGo,"4,838",DEL
+surat,amritsar,STV,ATQ,07:40,16:20,520,no,Air India,"5,140",DEL
+surat,amritsar,STV,ATQ,21:35,06:25,530,no,IndiGo,"5,258",DEL
+surat,goa,STV,GOI,05:50,07:35,105,yes,SpiceJet,"3,299",
+surat,goa,STV,GOI,17:42,19:10,85,yes,IndiGo,"3,402",
+surat,goa,STV,GOI,07:50,13:00,310,no,SpiceJet,"5,366",BOM
+surat,goa,STV,GOI,08:55,14:10,315,no,IndiGo,"5,555",BLR
+surat,cochin,STV,COK,16:35,23:00,1825,no,Air india,"6,322","BBI,BLR"
+surat,cochin,STV,COK,16:35,08:15,940,no,Air india,"6,334","BBI,BLR"
+surat,cochin,STV,COK,08:55,14:20,325,no,IndiGo,"6,358",BLR
+surat,cochin,STV,COK,07:40,21:10,810,no,Air india,"6,715",DEL
+surat,Thiruvananthapuram,STV,TRV,07:40,12:30,890,no,Air india,"7,240","DEL,Cok"
+surat,Thiruvananthapuram,STV,TRV,07:40,08:30,1490,no,Air india,"7,240",DEL
+surat,Thiruvananthapuram,STV,TRV,07:40,16:15,515,no,Air india,"7,765",DEL
+surat,Thiruvananthapuram,STV,TRV,21:25,08:30,665,no,Air india,"7,765",DEL
+surat,Chandigarh,STV,IXC,07:40,06:35,1370,no,Air india,"4,405",DEL
+surat,Chandigarh,STV,IXC,21:25,06:35,550,no,Air india,"4,930",DEL
+surat,Chandigarh,STV,IXC,08:55,15:00,365,no,IndiGo,"9,200",BLR
+surat,Chandigarh,STV,IXC,21:25,20:35,1390,no,Air india,"7,849",DEL
